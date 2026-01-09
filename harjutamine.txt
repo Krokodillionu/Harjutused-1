@@ -1,0 +1,3 @@
+Github on veebisait, mida kasutatakse tavaliselt avatud lähtekoodiga tarkvara arendusprojektide majutamiseks.
+GitHubi andmetel oli 2023. aasta jaanuari seisuga üle 100 miljoni arendaja ja üle 420 miljoni repositooriumi, sealhulgas vähemalt 28 miljonit avalikku repositooriumi. 
+See on 2023. aasta juuni seisuga maailma suurim lähtekoodi host.
